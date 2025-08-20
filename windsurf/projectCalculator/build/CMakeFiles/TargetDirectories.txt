@@ -1,3 +1,0 @@
-/home/eliel/Programming/aitoolstest/windsurf/projectCalculator/build/CMakeFiles/calculator.dir
-/home/eliel/Programming/aitoolstest/windsurf/projectCalculator/build/CMakeFiles/edit_cache.dir
-/home/eliel/Programming/aitoolstest/windsurf/projectCalculator/build/CMakeFiles/rebuild_cache.dir
