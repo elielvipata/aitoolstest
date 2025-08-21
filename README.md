@@ -6,11 +6,11 @@ A collection of projects I'm making with AI tools while exploring their capabili
 
 This is a summary of my findings as I play with AI Tools.
 There are two motivations for this:
-- I think there is great promise is having code generation from language models. I would like to work on a tool that maximizes the utility of these models while keeping the programmer in the loop better. 
+- I think there is great promise in having code generation from language models. I would like to work on a tool that maximizes the utility of these models while keeping the programmer in the loop.
 - I want to know the progress and limitations of the current state of these tools.
 
 
-I will center the tools around 2 uses cases:
+Tools will be centered on the following usecases:
 - Creating a project from scratch 
 - Adding a full feature to an existing project
 
@@ -34,3 +34,7 @@ A scientific calculator that runs in the terminal
 - [ ] Firebase Studio
 - [ ] Kiro
 - [ ] Visual studio code****
+
+
+Results, thoughts and findings will be found in their respective directories.
+
